@@ -1,8 +1,8 @@
 {
-  "name": "totalpeople",
+  "name": "MyProject",
   "version": "1.0.0",
-  "description": "Total People javascript files",
-  "main": "tp.min.js",
+  "description": "MyProject",
+  "main": "main.js",
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.config.js --mode development",
     "devel": "webpack --mode development",
